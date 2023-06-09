@@ -21,8 +21,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="kubernetes" alt="kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle"  alt="oracle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://storage.yandexcloud.net/cloud-www-assets/constructor/content-program/icons/yandexcloud.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://storage.yandexcloud.net/cloud-www-assets/constructor/content-program/icons/yandexcloud.svg" title="yandexcloud" alt="yandexcloud" width="30" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/hadoop.svg" title="hadoop" alt="hadoop" width="60" height="40"/>&nbsp;
+  <img src="https://svn.apache.org/repos/asf/comdev/project-logos/originals/hadoop.svg" title="hadoop" alt="hadoop" width="80" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
